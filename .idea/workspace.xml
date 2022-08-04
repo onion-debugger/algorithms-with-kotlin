@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef64dfa9-7916-48c3-bb99-aac70ab237af" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithms.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/binarySearch.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/leetcode-problems/runningSum.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/leetcode-problems/maximumWealth.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,9 +39,16 @@
     "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Color Scheme Font"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.RunningSumKt">
+  <component name="RunManager" selected="Kotlin.MaximumWealthKt">
     <configuration name="BinarySearchKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BinarySearchKt" />
+      <module name="algorithms" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaximumWealthKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode-problems.MaximumWealthKt" />
       <module name="algorithms" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -64,6 +63,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.MaximumWealthKt" />
         <item itemvalue="Kotlin.RunningSumKt" />
         <item itemvalue="Kotlin.BinarySearchKt" />
       </list>
@@ -80,7 +80,7 @@
       <workItem from="1658111545949" duration="2658000" />
       <workItem from="1658333712027" duration="403000" />
       <workItem from="1659483923483" duration="1704000" />
-      <workItem from="1659524988292" duration="7598000" />
+      <workItem from="1659524988292" duration="10212000" />
     </task>
     <servers />
   </component>
